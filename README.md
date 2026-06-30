@@ -1,4 +1,4 @@
-# criador-sosorulim
+# sosorulim
 Currículo Web desenvolvido para atividade da disciplina.
 # 👋 Olá, eu sou Ana Sofia Rulim
 
